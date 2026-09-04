@@ -18,8 +18,7 @@
 | --- | --- |
 | **[网页版](https://fxyadela.github.io/qwen-bluebook/)** | 单页阅读，左侧场景索引跟随滚动，每段指令原文可一键复制 |
 | [PDF](大学生AI全场景使用指南.pdf) | A4 排版，适合打印与离线阅读 |
-
-Word 源文件未开源。
+| [Word](https://github.com/fxyadela/qwen-bluebook/releases/latest/download/大学生AI全场景使用指南.docx) | 可编辑版本，通过 GitHub Releases 下载 |
 
 ## 13 个场景
 
